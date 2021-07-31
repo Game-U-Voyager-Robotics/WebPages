@@ -14,6 +14,32 @@
 
 ## General Info
 
+fdfd  
+dasfsdf  
+dafs  
+sf  
+dsaf  
+asdf  
+asdf  
+
+
 ## Technologies
 
+fdfd  
+dasfsdf  
+dafs  
+sf  
+dsaf  
+asdf  
+asdf  
+
+
 ## Collaboration
+
+fdfd  
+dasfsdf  
+dafs  
+sf  
+dsaf  
+asdf  
+asdf  
