@@ -1,0 +1,114 @@
+
+body{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+#header{
+    width: 800px;
+    margin: 5px auto;
+    background-color: darkgoldenrod;
+    border: 0px solid;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    padding:4px;
+    
+}
+
+#navigationBar{
+    width: 400px;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+    padding: 0px;
+    border: 2px solid;
+    border-color: black;
+    background-color: rgb(200,200,200,1);
+    font-family: 'Roboto', sans-serif;
+}
+
+#navigationBar a{
+    padding: 0px 20px;
+    color: black;
+    text-decoration: none;
+    
+}
+
+#navigationBar a:hover{
+    text-decoration: underline;
+}
+
+#navHeader{
+    padding: 5px;
+}
+#content p{
+}
+
+#header h1{
+    font-weight: normal;
+    font-size: 3em;
+
+}
+
+#header h3{
+    font-weight: normal;
+}
+
+#content{
+    margin: auto;
+    width: 800px;
+}
+
+#sec1{
+    width: 300px;
+    margin: auto;
+    border: 2px solid;
+    padding: 0px;
+    float: left;
+    margin-right: 10px;
+}
+#sec1 img{
+    width: 300px;
+    margin: -4px -0px;
+}
+
+#imgDiv1{
+    margin: auto;
+    text-align: center;
+    padding: 0px;
+
+}
+
+#sec2{
+    width: 800px;
+    margin: auto;
+}
+
+#sec3{
+    
+}
+
+.pic-left img{
+    float: left;
+}
+
+.pic-right img{
+    float: right;
+}
+
+.pic-left p{
+    
+}
+
+.pic-right p{
+    
+}
+
+#footer{
+    
+}
+
+
